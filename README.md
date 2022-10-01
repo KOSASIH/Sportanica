@@ -3,6 +3,7 @@
 [![CI](https://github.com/KOSASIH/Sportanica/actions/workflows/sportanica.yml/badge.svg)](https://github.com/KOSASIH/Sportanica/actions/workflows/sportanica.yml)
 [![Codacy Security Scan](https://github.com/KOSASIH/Sportanica/actions/workflows/codacy.yml/badge.svg)](https://github.com/KOSASIH/Sportanica/actions/workflows/codacy.yml)
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/39b285c76cd14e739f345179a0a3ea06)](https://www.codacy.com/gh/KOSASIH/Sportanica/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=KOSASIH/Sportanica&amp;utm_campaign=Badge_Grade)
+[![CircleCI](https://dl.circleci.com/status-badge/img/gh/KOSASIH/Sportanica/tree/main.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/KOSASIH/Sportanica/tree/main)
 
 # Sportanica
 Sports, fitness and activities as well as guidance and consultation.
