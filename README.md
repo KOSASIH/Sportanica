@@ -1,3 +1,4 @@
+[![CI](https://github.com/KOSASIH/Sportanica/actions/workflows/sportanica.yml/badge.svg)](https://github.com/KOSASIH/Sportanica/actions/workflows/sportanica.yml)
 [![Codacy Security Scan](https://github.com/KOSASIH/Sportanica/actions/workflows/codacy.yml/badge.svg)](https://github.com/KOSASIH/Sportanica/actions/workflows/codacy.yml)
 
 # Sportanica
