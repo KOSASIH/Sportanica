@@ -1,3 +1,7 @@
+![Profile View Counter](https://komarev.com/ghpvc/?username=KOSASIH)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=KOSASIH&show_icons=true)
+
+
 [![CodeFactor](https://www.codefactor.io/repository/github/kosasih/sportanica/badge)](https://www.codefactor.io/repository/github/kosasih/sportanica)
 [![Deploy Jekyll with GitHub Pages dependencies preinstalled](https://github.com/KOSASIH/Sportanica/actions/workflows/jekyll-gh-pages.yml/badge.svg)](https://github.com/KOSASIH/Sportanica/actions/workflows/jekyll-gh-pages.yml)
 [![CI](https://github.com/KOSASIH/Sportanica/actions/workflows/sportanica.yml/badge.svg)](https://github.com/KOSASIH/Sportanica/actions/workflows/sportanica.yml)
