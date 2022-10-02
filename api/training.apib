@@ -1,19 +1,19 @@
 FORMAT: 1A
-HOST: https://polls.apiblueprint.org/
+HOST: https://training.apiblueprint.org/
 
 # Training
 
-Polls is a simple API allowing consumers to view polls and vote in them.
+Training is a simple API allowing consumers to view training and vote in them.
 
-## Questions Collection [/questions]
+## Trainings Collection [/trainings]
 
-### List All Questions [GET]
+### List All Trainings [GET]
 
 + Response 200 (application/json)
 
         [
             {
-                "question": "Favourite programming language?",
+                "training": "Favourite programming language?",
                 "published_at": "2015-08-05T08:40:51.620Z",
                 "choices": [
                     {
@@ -33,16 +33,16 @@ Polls is a simple API allowing consumers to view polls and vote in them.
             }
         ]
 
-### Create a New Question [POST]
+### Create a New Training [POST]
 
-You may create your own question using this action. It takes a JSON
-object containing a question and a collection of answers in the
+You may create your own training using this action. It takes a JSON
+object containing a training and a collection of trainings in the
 form of choices.
 
 + Request (application/json)
 
         {
-            "question": "Favourite programming language?",
+            "training": "Favourite programming language?",
             "choices": [
                 "Swift",
                 "Python",
@@ -55,12 +55,12 @@ form of choices.
 
     + Headers
 
-            Location: /questions/2
+            Location: /trainings/2
 
     + Body
 
             {
-                "question": "Favourite programming language?",
+                "training": "Favourite programming language?",
                 "published_at": "2015-08-05T08:40:51.620Z",
                 "choices": [
                     {
