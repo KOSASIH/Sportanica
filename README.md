@@ -16,10 +16,10 @@
 # Sportanica
 Sports, fitness and activities as well as guidance and consultation powered by AI ( Artificial Intelligence ) and ML ( Machine Learning ).
 
-## Mission
+# Mission
 Building a healthier community life through the development of programs using artificial intelligence technology.
 
-### Description
+# Description
 Sport is a lifestyle activity that many people enjoy. Fitness is a state of health and well-being. Most of the people want to lead a healthy life. Sport, as well as fitness, helps you stay fit and improve your health. Sport helps you stay fit both physically and mentally. It improves your physical strength, stamina, flexibility, and endurance. It increases your muscle strength and mass. Sport is an essential part of staying fit. Sport gives you a feeling of joy, fulfillment and satisfaction. It helps you meet new people, make new friends.
 
 "One of the most important thing in our life is keeping healthy ". 
