@@ -1,13 +1,13 @@
 FORMAT: 1A
 HOST: https://athletes.apiblueprint.org/
 
-# Athletes 
+# Athlete 
 
-Athletes is a simple API allowing consumers to view Athletes and vote in them.
+Athlete is a simple API allowing consumers to view Athletes and vote in them.
 
-## Athletes Collection [/athletes]
+## Athlete Collection [/athletes]
 
-### List All Athletess [GET]
+### List All Athletes [GET]
 
 + Response 200 (application/json)
 
@@ -33,16 +33,16 @@ Athletes is a simple API allowing consumers to view Athletes and vote in them.
             }
         ]
 
-### Create a New Athletes [POST]
+### Create a New Athlete [POST]
 
-You may create your own Athletes using this action. It takes a JSON
+You may create your own Athlete using this action. It takes a JSON
 object containing a question and a collection of answers in the
 form of choices.
 
 + Request (application/json)
 
         {
-            "Athletes": "Favourite programming language?",
+            "Athlete": "Favourite programming language?",
             "choices": [
                 "Swift",
                 "Python",
@@ -55,7 +55,7 @@ form of choices.
 
     + Headers
 
-            Location: /athletes/2
+            Location: /athlete/2
 
     + Body
 
