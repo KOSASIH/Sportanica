@@ -14,7 +14,12 @@
 
 
 # Sportanica
-Sports, fitness and activities as well as guidance and consultation.
+Sports, fitness and activities as well as guidance and consultation powered by AI ( Artificial Intelligence ) and ML ( Machine Learning ).
+
+## Description
+We believe in a future where the AI and ML will help us to get the most from our lives. AI and ML is a core part of Sportanica which offers different features and services like sports, fitness, activities as well as guidance and consultation powered by AI ( Artificial Intelligence ) and ML Machine Learning ).
+Sportanica has come to the rescue. Sports, fitness and activities as well as guidance and consultation powered by AI ( Artificial Intelligence ) and ML Machine Learning ).
+Sportanica is an AI-powered sports and fitness platform. We utilise our SaaS, AI and ML to provide sports and fitness guidance, coaching, advice and consultation powered by AI, algorithms and machine learning.
 
 
 <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/KOSASIH/Sportanica">Sportanica</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://github.com/KOSASIH">KOSASIH</a> is licensed under <a href="http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Attribution 4.0 International<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"></a></p>
