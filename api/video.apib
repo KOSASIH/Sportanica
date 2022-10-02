@@ -3,17 +3,17 @@ HOST: https://polls.apiblueprint.org/
 
 # Video
 
-Polls is a simple API allowing consumers to view polls and vote in them.
+Video is a simple API allowing consumers to view Videos and vote in them.
 
-## Questions Collection [/questions]
+## Videos Collection [/videos]
 
-### List All Questions [GET]
+### List All Videos [GET]
 
 + Response 200 (application/json)
 
         [
             {
-                "question": "Favourite programming language?",
+                "video": "Favourite programming language?",
                 "published_at": "2015-08-05T08:40:51.620Z",
                 "choices": [
                     {
@@ -33,16 +33,16 @@ Polls is a simple API allowing consumers to view polls and vote in them.
             }
         ]
 
-### Create a New Question [POST]
+### Create a New Video [POST]
 
-You may create your own question using this action. It takes a JSON
-object containing a question and a collection of answers in the
+You may create your own video using this action. It takes a JSON
+object containing a video and a collection of videos in the
 form of choices.
 
 + Request (application/json)
 
         {
-            "question": "Favourite programming language?",
+            "video": "Favourite programming language?",
             "choices": [
                 "Swift",
                 "Python",
@@ -55,12 +55,12 @@ form of choices.
 
     + Headers
 
-            Location: /questions/2
+            Location: /videos/2
 
     + Body
 
             {
-                "question": "Favourite programming language?",
+                "video": "Favourite programming language?",
                 "published_at": "2015-08-05T08:40:51.620Z",
                 "choices": [
                     {
