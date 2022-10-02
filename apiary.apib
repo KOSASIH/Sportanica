@@ -1,19 +1,19 @@
 FORMAT: 1A
-HOST: https://polls.apiblueprint.org/
+HOST: https://club.apiblueprint.org/
 
 # Club
 
-Polls is a simple API allowing consumers to view polls and vote in them.
+Club is a simple API allowing consumers to view Sports Club and vote in them.
 
-## Questions Collection [/questions]
+## Clubs Collection [/clubs]
 
-### List All Questions [GET]
+### List All Clubs [GET]
 
 + Response 200 (application/json)
 
         [
             {
-                "question": "Favourite programming language?",
+                "club": "Favourite programming language?",
                 "published_at": "2015-08-05T08:40:51.620Z",
                 "choices": [
                     {
@@ -33,16 +33,16 @@ Polls is a simple API allowing consumers to view polls and vote in them.
             }
         ]
 
-### Create a New Question [POST]
+### Create a New Club [POST]
 
-You may create your own question using this action. It takes a JSON
+You may create your own sport club using this action. It takes a JSON
 object containing a question and a collection of answers in the
 form of choices.
 
 + Request (application/json)
 
         {
-            "question": "Favourite programming language?",
+            "club": "Favourite programming language?",
             "choices": [
                 "Swift",
                 "Python",
@@ -55,12 +55,12 @@ form of choices.
 
     + Headers
 
-            Location: /questions/2
+            Location: /clubs/2
 
     + Body
 
             {
-                "question": "Favourite programming language?",
+                "club": "Favourite programming language?",
                 "published_at": "2015-08-05T08:40:51.620Z",
                 "choices": [
                     {
