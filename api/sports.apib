@@ -1,11 +1,11 @@
 FORMAT: 1A
-HOST: https://sports.apiblueprint.org/
+HOST: https://sport.apiblueprint.org/
 
-# Sports
+# Sport
 
 Sports is a simple API allowing consumers to view Sports and vote in them.
 
-## Sports Collection [/sports]
+## Sport Collection [/sport]
 
 ### List All Sports [GET]
 
@@ -33,7 +33,7 @@ Sports is a simple API allowing consumers to view Sports and vote in them.
             }
         ]
 
-### Create a New Sports [POST]
+### Create a New Sport [POST]
 
 You may create your own Sports using this action. It takes a JSON
 object containing a question and a collection of answers in the
@@ -42,7 +42,7 @@ form of choices.
 + Request (application/json)
 
         {
-            "sports": "Favourite programming language?",
+            "sport": "Favourite programming language?",
             "choices": [
                 "Swift",
                 "Python",
@@ -60,7 +60,7 @@ form of choices.
     + Body
 
             {
-                "sports": "Favourite programming language?",
+                "sport": "Favourite programming language?",
                 "published_at": "2015-08-05T08:40:51.620Z",
                 "choices": [
                     {
