@@ -1,19 +1,19 @@
 FORMAT: 1A
-HOST: https://polls.apiblueprint.org/
+HOST: https://athletes.apiblueprint.org/
 
-# Athletes Corner
+# Athletes 
 
-Polls is a simple API allowing consumers to view polls and vote in them.
+Athletes is a simple API allowing consumers to view Athletes and vote in them.
 
-## Questions Collection [/questions]
+## Athletes Collection [/athletes]
 
-### List All Questions [GET]
+### List All Athletess [GET]
 
 + Response 200 (application/json)
 
         [
             {
-                "question": "Favourite programming language?",
+                "Athletes": "Favourite programming language?",
                 "published_at": "2015-08-05T08:40:51.620Z",
                 "choices": [
                     {
@@ -33,16 +33,16 @@ Polls is a simple API allowing consumers to view polls and vote in them.
             }
         ]
 
-### Create a New Question [POST]
+### Create a New Athletes [POST]
 
-You may create your own question using this action. It takes a JSON
+You may create your own Athletes using this action. It takes a JSON
 object containing a question and a collection of answers in the
 form of choices.
 
 + Request (application/json)
 
         {
-            "question": "Favourite programming language?",
+            "Athletes": "Favourite programming language?",
             "choices": [
                 "Swift",
                 "Python",
@@ -55,12 +55,12 @@ form of choices.
 
     + Headers
 
-            Location: /questions/2
+            Location: /athletes/2
 
     + Body
 
             {
-                "question": "Favourite programming language?",
+                "athletes": "Favourite programming language?",
                 "published_at": "2015-08-05T08:40:51.620Z",
                 "choices": [
                     {
