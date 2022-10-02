@@ -1,19 +1,19 @@
 FORMAT: 1A
 HOST: https://livesports.apiblueprint.org/
 
-# Live Sports
+# Live 
 
-Live sports is a simple API allowing consumers to view Live Sports event and vote in them.
+Live is a simple API allowing consumers to view Live Sports event and vote in them.
 
-## Live Sports Event Collection [/questions]
+## Lives Collection [/lives]
 
-### List All Sport Events [GET]
+### List All Lives [GET]
 
 + Response 200 (application/json)
 
         [
             {
-                "live_sports": "Favourite programming language?",
+                "live": "Favourite programming language?",
                 "published_at": "2015-08-05T08:40:51.620Z",
                 "choices": [
                     {
@@ -42,7 +42,7 @@ form of choices.
 + Request (application/json)
 
         {
-            "live_sports": "Favourite programming language?",
+            "live": "Favourite programming language?",
             "choices": [
                 "Swift",
                 "Python",
@@ -55,12 +55,12 @@ form of choices.
 
     + Headers
 
-            Location: /live_sports/2
+            Location: /lives/2
 
     + Body
 
             {
-                "live_sports": "Favourite programming language?",
+                "live": "Favourite programming language?",
                 "published_at": "2015-08-05T08:40:51.620Z",
                 "choices": [
                     {
