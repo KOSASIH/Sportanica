@@ -14,7 +14,7 @@
 
 
 # Sportanica
-Sports, fitness and activities as well as guidance and consultation powered by AI ( Artificial Intelligence ) and ML ( Machine Learning ) algorithms. 
+Sports, fitness and Physical activities as well as guidance and consultation powered by AI ( Artificial Intelligence ) and ML ( Machine Learning ) algorithms. 
 
 # Mission
 Building a healthier community life through the development of programs using artificial intelligence technology.
