@@ -1,19 +1,19 @@
 FORMAT: 1A
-HOST: https://book.apiblueprint.org/
+HOST: https://history.apiblueprint.org/
 
-# Book
+# History
 
-Book is a simple API allowing consumers to view book and vote in them.
+History is a simple API allowing consumers to view sports moments history and vote in them.
 
-## Books Collection [/books]
+## histories Collection [/histories]
 
-### List All Books [GET]
+### List All Histories [GET]
 
 + Response 200 (application/json)
 
         [
             {
-                "book": "Favourite programming language?",
+                "history": "Favourite programming language?",
                 "published_at": "2015-08-05T08:40:51.620Z",
                 "choices": [
                     {
@@ -33,16 +33,16 @@ Book is a simple API allowing consumers to view book and vote in them.
             }
         ]
 
-### Create a New Book [POST]
+### Create a New History [POST]
 
-You may create your own book using this action. It takes a JSON
-object containing a book and a collection of books in the
+You may create your own History sport moments using this action. It takes a JSON
+object containing a History and a collection of histories in the
 form of choices.
 
 + Request (application/json)
 
         {
-            "book": "Favourite programming language?",
+            "history": "Favourite programming language?",
             "choices": [
                 "Swift",
                 "Python",
@@ -55,7 +55,7 @@ form of choices.
 
     + Headers
 
-            Location: /books/2
+            Location: /histories/2
 
     + Body
 
