@@ -18,5 +18,9 @@
   "servers" : [ {
     "description" : "SwaggerHub API Auto Mocking",
     "url" : "https://virtserver.swaggerhub.com/KOSASIH/Athlete/1.0.0"
+  } ],
+  "tags" : [ {
+    "name" : "Sport",
+    "description" : "sport"
   } ]
 }
