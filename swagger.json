@@ -1,0 +1,22 @@
+{
+  "openapi" : "3.0.0",
+  "info" : {
+    "version" : "1.0.0",
+    "title" : "Athlete",
+    "description" : "Api service to give consumer information about sports athlete",
+    "license" : {
+      "name" : "MIT",
+      "url" : "https://github.com/KOSASIH/Sportanica/blob/main/LICENSE"
+    },
+    "contact" : {
+      "name" : "KOSASIH",
+      "email" : "kosasihg88@gmail.com",
+      "url" : "https://www.linkedin.com/in/kosasih-81b46b5a"
+    }
+  },
+  "paths" : { },
+  "servers" : [ {
+    "description" : "SwaggerHub API Auto Mocking",
+    "url" : "https://virtserver.swaggerhub.com/KOSASIH/Athlete/1.0.0"
+  } ]
+}
