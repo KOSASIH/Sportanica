@@ -11,7 +11,7 @@
 [![DeepSource](https://deepsource.io/gh/KOSASIH/Sportanica.svg/?label=active+issues&show_trend=true&token=K9iFR4EqzmYTeiV3fADNR9Nc)](https://deepsource.io/gh/KOSASIH/Sportanica/?ref=repository-badge)
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/KOSASIH/Sportanica/main)
 [![Documentation Status](https://readthedocs.org/projects/sportanica/badge/?version=latest)](https://sportanica.readthedocs.io/en/latest/?badge=latest)
-
+[![Mark stale issues and pull requests](https://github.com/KOSASIH/Sportanica/actions/workflows/stale.yml/badge.svg)](https://github.com/KOSASIH/Sportanica/actions/workflows/stale.yml)
 
 # Sportanica
 Sports, fitness and Physical activities as well as guidance and consultation powered by AI ( Artificial Intelligence ) and ML ( Machine Learning ) algorithms. 
