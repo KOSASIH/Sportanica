@@ -1,6 +1,7 @@
 ![Profile View Counter](https://komarev.com/ghpvc/?username=KOSASIH)
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=KOSASIH&show_icons=true)
 
+[![Run in Postman](https://run.pstmn.io/button.svg)](https://god.gw.postman.com/run-collection/6817007-1a717712-3c3f-4f1c-a30d-6b040c2e24a1?action=collection%2Ffork&collection-url=entityId%3D6817007-1a717712-3c3f-4f1c-a30d-6b040c2e24a1%26entityType%3Dcollection%26workspaceId%3Dc7020620-50a0-415d-9d6e-b27630872488#?env%5BProduction%5D=W10=)
 
 [![CodeFactor](https://www.codefactor.io/repository/github/kosasih/sportanica/badge)](https://www.codefactor.io/repository/github/kosasih/sportanica)
 [![CI](https://github.com/KOSASIH/Sportanica/actions/workflows/sportanica.yml/badge.svg)](https://github.com/KOSASIH/Sportanica/actions/workflows/sportanica.yml)
