@@ -1,7 +1,6 @@
 ![Profile View Counter](https://komarev.com/ghpvc/?username=KOSASIH)
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=KOSASIH&show_icons=true)
 
-[![Run in Postman](https://run.pstmn.io/button.svg)](https://god.gw.postman.com/run-collection/6817007-1a717712-3c3f-4f1c-a30d-6b040c2e24a1?action=collection%2Ffork&collection-url=entityId%3D6817007-1a717712-3c3f-4f1c-a30d-6b040c2e24a1%26entityType%3Dcollection%26workspaceId%3Dc7020620-50a0-415d-9d6e-b27630872488#?env%5BProduction%5D=W10=)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=KOSASIH&show_icons=true)
 
 [![CodeFactor](https://www.codefactor.io/repository/github/kosasih/sportanica/badge)](https://www.codefactor.io/repository/github/kosasih/sportanica)
 [![CI](https://github.com/KOSASIH/Sportanica/actions/workflows/sportanica.yml/badge.svg)](https://github.com/KOSASIH/Sportanica/actions/workflows/sportanica.yml)
@@ -33,6 +32,49 @@ We believe in a future where the AI and ML will help us to get the most from our
 Sportanica has come to the rescue. Sports, fitness and activities as well as guidance and consultation powered by AI ( Artificial Intelligence ) and ML Machine Learning ).
 Sportanica is an AI-powered sports and fitness platform. We utilise our SaaS, AI and ML to provide sports and fitness guidance, coaching, advice and consultation powered by AI, algorithms and machine learning.
 
+# Documentation And Collections
+
+Developers can run the collection in Postman more easily, here :
+
+1. Carrier
+
+[![Run in Postman](https://run.pstmn.io/button.svg)](https://god.gw.postman.com/run-collection/6817007-3c04f005-438b-4783-bb02-759b6f1177f7?action=collection%2Ffork&collection-url=entityId%3D6817007-3c04f005-438b-4783-bb02-759b6f1177f7%26entityType%3Dcollection%26workspaceId%3Dc7020620-50a0-415d-9d6e-b27630872488#?env%5BProduction%5D=W10=)
+
+2. Consultation
+
+[![Run in Postman](https://run.pstmn.io/button.svg)](https://god.gw.postman.com/run-collection/6817007-acaeb31b-18bb-430d-b7c6-a979de1302cd?action=collection%2Ffork&collection-url=entityId%3D6817007-acaeb31b-18bb-430d-b7c6-a979de1302cd%26entityType%3Dcollection%26workspaceId%3Dc7020620-50a0-415d-9d6e-b27630872488#?env%5BProduction%5D=W10=)
+
+3. Education
+  
+[![Run in Postman](https://run.pstmn.io/button.svg)](https://god.gw.postman.com/run-collection/6817007-1a717712-3c3f-4f1c-a30d-6b040c2e24a1?action=collection%2Ffork&collection-url=entityId%3D6817007-1a717712-3c3f-4f1c-a30d-6b040c2e24a1%26entityType%3Dcollection%26workspaceId%3Dc7020620-50a0-415d-9d6e-b27630872488#?env%5BProduction%5D=W10=)
+
+4. Event
+
+[![Run in Postman](https://run.pstmn.io/button.svg)](https://god.gw.postman.com/run-collection/6817007-5ce2a1c4-56b7-4f4a-a1f1-46b5d1fd3f5e?action=collection%2Ffork&collection-url=entityId%3D6817007-5ce2a1c4-56b7-4f4a-a1f1-46b5d1fd3f5e%26entityType%3Dcollection%26workspaceId%3Dc7020620-50a0-415d-9d6e-b27630872488#?env%5BProduction%5D=W10=)
+
+5. Food And Nutrition
+
+[![Run in Postman](https://run.pstmn.io/button.svg)](https://god.gw.postman.com/run-collection/6817007-8951e0bc-b08e-4a0b-8e16-d6b0fb76dfca?action=collection%2Ffork&collection-url=entityId%3D6817007-8951e0bc-b08e-4a0b-8e16-d6b0fb76dfca%26entityType%3Dcollection%26workspaceId%3Dc7020620-50a0-415d-9d6e-b27630872488#?env%5BProduction%5D=W10=)
+
+6. Healthy
+
+[![Run in Postman](https://run.pstmn.io/button.svg)](https://god.gw.postman.com/run-collection/6817007-419fcb63-3025-41e8-8a7d-4e91810fd37f?action=collection%2Ffork&collection-url=entityId%3D6817007-419fcb63-3025-41e8-8a7d-4e91810fd37f%26entityType%3Dcollection%26workspaceId%3Dc7020620-50a0-415d-9d6e-b27630872488)
+
+7. Partner
+
+[![Run in Postman](https://run.pstmn.io/button.svg)](https://god.gw.postman.com/run-collection/6817007-7037edcc-8885-4277-8817-915d03c472ff?action=collection%2Ffork&collection-url=entityId%3D6817007-7037edcc-8885-4277-8817-915d03c472ff%26entityType%3Dcollection%26workspaceId%3Dc7020620-50a0-415d-9d6e-b27630872488#?env%5BProduction%5D=W10=)
+
+8. Certification
+
+[![Run in Postman](https://run.pstmn.io/button.svg)](https://god.gw.postman.com/run-collection/6817007-246fb004-9f0c-4d31-866d-aedc56ec3483?action=collection%2Ffork&collection-url=entityId%3D6817007-246fb004-9f0c-4d31-866d-aedc56ec3483%26entityType%3Dcollection%26workspaceId%3Dc7020620-50a0-415d-9d6e-b27630872488#?env%5BProduction%5D=W10=)
+
+9. Sport
+
+[![Run in Postman](https://run.pstmn.io/button.svg)](https://god.gw.postman.com/run-collection/6817007-a3c564a4-7676-48a6-8fee-f9881262986d?action=collection%2Ffork&collection-url=entityId%3D6817007-a3c564a4-7676-48a6-8fee-f9881262986d%26entityType%3Dcollection%26workspaceId%3Dc7020620-50a0-415d-9d6e-b27630872488#?env%5BProduction%5D=W10=)
+
+10. Art & Culture
+ 
+[![Run in Postman](https://run.pstmn.io/button.svg)](https://god.gw.postman.com/run-collection/6817007-d3ab2351-4872-4db4-87ad-335c1eed4175?action=collection%2Ffork&collection-url=entityId%3D6817007-d3ab2351-4872-4db4-87ad-335c1eed4175%26entityType%3Dcollection%26workspaceId%3Dc7020620-50a0-415d-9d6e-b27630872488#?env%5BProduction%5D=W10=)
 
 
 <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/KOSASIH/Sportanica">Sportanica</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://github.com/KOSASIH">KOSASIH</a> is licensed under <a href="http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Attribution 4.0 International<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"></a></p>
