@@ -32,6 +32,10 @@ We believe in a future where the AI and ML will help us to get the most from our
 Sportanica has come to the rescue. Sports, fitness and activities as well as guidance and consultation powered by AI ( Artificial Intelligence ) and ML Machine Learning ).
 Sportanica is an AI-powered sports and fitness platform. We utilise our SaaS, AI and ML to provide sports and fitness guidance, coaching, advice and consultation powered by AI, algorithms and machine learning.
 
+# Startup
+
+Build your startup [here](https://xaltic.atlassian.net/jira/core/projects/SPOR/form/1?atlOrigin=eyJpIjoiYTE4ZDBjMmQ3YTY1NDRkM2E1ODJkM2UzNzFmZTNjNjIiLCJwIjoiaiJ9) 
+
 # Documentation And Collections
 
 Developers can run the collection in Postman more easily, here :
