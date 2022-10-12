@@ -36,6 +36,10 @@ Sportanica is an AI-powered sports and fitness platform. We utilise our SaaS, AI
 
 Build your startup [here](https://xaltic.atlassian.net/jira/core/projects/SPOR/form/1?atlOrigin=eyJpIjoiYTE4ZDBjMmQ3YTY1NDRkM2E1ODJkM2UzNzFmZTNjNjIiLCJwIjoiaiJ9) 
 
+# Dataset
+
+Check our Dataset [here](https://data.world/kosasih/sportanica) 
+
 # Documentation And Collections
 
 Developers can run the collection in Postman more easily, here :
