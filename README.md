@@ -38,11 +38,13 @@ Build your startup [here](https://xaltic.atlassian.net/jira/core/projects/SPOR/f
 
 # Dataset
 
-Check our Dataset [here](https://data.world/kosasih/sportanica) or here :
+Check our Dataset here :
 
 - [Sport History](https://data.world/kosasih/sports-history) 
 - [Traditional Sport](https://data.world/kosasih/traditional-sport) 
 - [Sport Guide](https://data.world/kosasih/sports-guide) 
+
+and more [here](https://data.world/kosasih/sportanica) 
 
 # Documentation And Collections
 
